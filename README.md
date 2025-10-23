@@ -1,17 +1,17 @@
-# Pilotage Stratégique d'un Portefeuille Fournisseurs (Excel, Power Query & VBA)
+# 📊 Pilotage Stratégique d'un Portefeuille Fournisseurs (Excel, Power Query & VBA)
 
 Ce projet est un outil complet d'aide à la décision pour la direction des achats, construit entièrement sur Excel. Il automatise l'évaluation des fournisseurs et fournit des visualisations interactives pour maîtriser les risques et la performance.
 
 ---
 
-### Aperçu du Tableau de Bord Exécutif
+### 🖼️ Aperçu du Tableau de Bord Exécutif
 L'outil principal est un dashboard dynamique qui donne une vision à 360° du portefeuille.
 
 ![Aperçu du Tableau de Bord](Demo_images/dashboard.png)
 
 ---
 
-### 1. Problématique Business
+### 🎯 1. Problématique Business
 
 L'objectif était de répondre à un besoin critique pour toute entreprise :
 **"Comment évaluer objectivement nos fournisseurs pour réduire les risques de la chaîne d'approvisionnement et optimiser les coûts ?"**
@@ -20,7 +20,7 @@ Ce projet transforme une gestion subjective en un pilotage proactif basé sur de
 
 ---
 
-### 2. La Solution : Un Outil Complet
+### 💡 2. La Solution : Un Outil Complet
 
 La solution est un classeur Excel (`.xlsm`) qui intègre plusieurs technologies :
 
@@ -32,7 +32,7 @@ La solution est un classeur Excel (`.xlsm`) qui intègre plusieurs technologies 
 
 ---
 
-### 3. Compétences et Méthodologie
+### 🛠️ 3. Compétences et Méthodologie
 
 Ce projet démontre la maîtrise de la chaîne de valeur analytique sur Excel :
 
@@ -57,7 +57,7 @@ Ce projet démontre la maîtrise de la chaîne de valeur analytique sur Excel :
 
 ---
 
-### 4. Fichiers du Projet
+### 📁 4. Fichiers du Projet
 
 * **`Livrables/`** : Contient le projet final.
     * `Tableau_de_Bord_Fournisseurs.xlsm` : Le fichier Excel principal (macros à activer).
@@ -68,7 +68,7 @@ Ce projet démontre la maîtrise de la chaîne de valeur analytique sur Excel :
 
 ---
 
-### 5. Contact
+### 📬 5. Contact
 
 Je suis toujours à la recherche de nouveaux défis pour transformer les données en décisions.
 
